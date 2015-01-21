@@ -1,0 +1,16 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("www.inoreader.com") {
+	#reader_pane {
+		min-width: 380px;
+	}
+	.block_article_ad{
+		display: none;
+	}
+	#three_way_contents{
+		padding: 0 20px;
+	}
+	.article_footer {
+		width: auto!important;; 
+	}
+}
