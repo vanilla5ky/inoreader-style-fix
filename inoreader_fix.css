@@ -13,4 +13,7 @@
 	.article_footer {
 		width: auto!important;; 
 	}
+	.article_content {
+		margin:auto;
+	}
 }
